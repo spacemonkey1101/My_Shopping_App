@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "660574947361",
+    "firebase_url": "https://wofo24-7b7db.firebaseio.com",
+    "project_id": "wofo24-7b7db",
+    "storage_bucket": "wofo24-7b7db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660574947361:android:66ad1b208b18f5de18fb60",
+        "android_client_info": {
+          "package_name": "com.example.wofo24buisiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660574947361-9jrf5fvks0na10llv4f65buql8s67s9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7MyKTB9Vl6Nn2JhiX4c4UBR5YqTQKT0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660574947361-9jrf5fvks0na10llv4f65buql8s67s9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
